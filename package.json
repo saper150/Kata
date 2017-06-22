@@ -1,0 +1,17 @@
+{
+  "name": "kata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "jshintConfig":{
+    "asi":true,
+    "esversion": 6,
+    "devel": true
+  }
+  
+}
